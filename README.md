@@ -1,2 +1,2 @@
-# Python3-basic-exercises
-Python3 basic tutorial for practicing Liao Xuefeng's teacher
+# Deep-learning-pratice
+fast.ai课程实践笔记
